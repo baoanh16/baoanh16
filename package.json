@@ -1,0 +1,7 @@
+{
+  "name": "baoanh16",
+  "version": "1.0.0",
+  "bin": {
+    "baoanh16": "index.js"
+  }
+}
